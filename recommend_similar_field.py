@@ -6,7 +6,7 @@ import pandas as pd
 from sklearn.preprocessing import StandardScaler
 from keras.models import Model
 from keras.layers import Input, Dense
-from silence_tensorflow import silence_tensorflow
+from keras.models import load_model
 import json
 
 
@@ -27,9 +27,8 @@ def distance(lat1, lon1, lat2, lon2):
 
 def tf_recommend_similar_field(field, current_lat, current_lng):
     # Suppress TensorFlow warnings
-    silence_tensorflow()
     os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
-    field_dataset = pd.read_csv('./Dataset/Data Pengguna.csv')
+    field_dataset = pd.read_csv('dataset_fixed.csv')
 
     row_condition = field_dataset['id'] == field
     row_index = field_dataset.index[row_condition][0]
@@ -52,22 +51,14 @@ def tf_recommend_similar_field(field, current_lat, current_lng):
     X_scaled = pd.DataFrame(scaler.fit_transform(pca_field), columns=pca_field.columns, index=pca_field.index)
 
     # Apply TensorFlow-based PCA
-    n_components = 2
-    
-    input_layer = Input(shape=(len(X_scaled.columns),))
-    encoded = Dense(n_components, activation='relu')(input_layer)
-    decoded = Dense(len(X_scaled.columns), activation='sigmoid')(encoded)
-    autoencoder = Model(input_layer, decoded)
-
-    autoencoder.compile(optimizer='adam', loss='mse')
-    autoencoder.fit(X_scaled, X_scaled, epochs=50, batch_size=32, verbose = 0)
+    autoencoder = load_model('pca-autoencoder.h5')
     encoded_data = autoencoder.predict(X_scaled)
     X_pca_tensor = tf.convert_to_tensor(encoded_data, dtype=tf.float32)
 
     # KMeans clustering
     n_clusters = 4
     initial_clusters = tf.random.shuffle(X_pca_tensor)[:n_clusters]
-    kmeans = tf.compat.v1.estimator.experimental.KMeans(num_clusters=n_clusters, use_mini_batch=False)
+    kmeans = tf.compat.v1.estimator.experimental.KMeans(num_clusters=n_clusters, use_mini_batch=False, seed = 0)
 
     def input_fn():
         return tf.compat.v1.train.limit_epochs(tf.convert_to_tensor(encoded_data, dtype=tf.float32), num_epochs=1)
