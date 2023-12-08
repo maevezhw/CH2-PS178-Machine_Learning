@@ -6,5 +6,5 @@ This is the CH2-PS178 Machine Learning repository of the Bangkit Academy 2023 Ba
 - Parameter input: id lapangan that is being shown, user's latitude, user's longitude
 
 ## recommend_based_on_location
-- Recommendations placed on the homepage in the "Fields for You" section provide a list of fields with the closest locations to the user
+- Recommendations placed on the homepage in the "Rekomendasi Lapangan Untukmu" section provide a list of fields with the closest locations to the user
 - Input parameters: user's latitude, user's longitude, and the input_field representing the type of field based on the user's interests.
