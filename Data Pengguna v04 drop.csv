@@ -1,0 +1,291 @@
+no,id,name,lat,lng,vicinity,kecamatan,kabupaten,rating,user_ratings_total,id_pengguna,minat
+6,C422,Gor Cokrodirjan,-7.7958533,110.3700739,"693C+M24, Gg. Sutedjo, Suryatmajan, Kota Yogyakarta",Suryatmajan,Yogyakarta,4.5,8,P1,badminton
+8,B675,Gor Multifungsi Akademi Akuntansi Ykpn  ,-7.7846238,110.3836593,"Jl. Gagak Rimang No.4, Klitren, Kota Yogyakarta",Klitren,Yogyakarta,4.5,4,P2,basket
+9,C847,Lapangan Badminton Sambirejo ,-7.8151437,110.393632,"59MV+XF2, Gg. Sambirejo III, Prenggan, Kota Yogyakarta",Prenggan,Yogyakarta,4.2,17,P3,badminton
+12,C28,Lapangan Bulutangkis Suryatmajan,-7.7957819,110.3684331,"6939+M9M, Suryatmajan, Yogyakarta City",Suryatmajan,Yogyakarta,4.5,11,P4,badminton
+13,C393,Lapangan Bulutangkis Timpasko,-7.8281574,110.4016317,"5CC2+PJ9, Dolahan, Purbayan, Purbayan, Yogyakarta City",Purbayan,Yogyakarta,4.7,3,P5,badminton
+18,V584,Lapangan Rw  Gambiran,-7.819978,110.3911323,"59JR+2F2, Jl. Gambir Sari, Pandeyan, Kota Yogyakarta",Pandeyan,Yogyakarta,5.0,3,P6,voli
+21,T987,Lapangan Tenis Green House,-7.8221715,110.3748489,"59HF+4WP, Brontokusuman, Yogyakarta City",Brontokusuman,Yogyakarta,4.1,8,P7,tenis
+22,T399,Lapangan Tenis Polbangtan Yogyakarta,-7.8031737,110.3810656,"59WJ+PCP, Tahunan, Yogyakarta City",Tahunan,Yogyakarta,4.6,5,P8,tenis
+25,B77,Mataram Basketball  Spartan Court,-7.7816878,110.366039,"Jl. Kranggan No.7, Cokrodiningratan, Kota Yogyakarta",Cokrodiningratan,Yogyakarta,4.5,6,P9,basket
+28,F883,Next Futsal,-7.7828864,110.3837101,"698M+RFW, Jl. Urip Sumoharjo, Klitren, Kota Yogyakarta",Klitren,Yogyakarta,4.7,6,P10,futsal
+32,C611,Lapangan Badminton Pb,-7.8200691,110.3547008,"59H3+XVG, Gedongkiwo, Yogyakarta City",Gedongkiwo,Yogyakarta,4.6,10,P11,badminton
+33,C395,Lapangan Kasunaran,-7.82026,110.3528216,"59H3+V4W, Gedongkiwo, Yogyakarta City",Gedongkiwo,Yogyakarta,4.3,4,P12,badminton
+35,C448,Gor Badminton,-7.8070752,110.3783495,"59VH+58G, Wirogunan, Yogyakarta City",Wirogunan,Yogyakarta,5.0,7,P13,badminton
+36,C617,Lapangan Badminton,-7.8047479,110.383535,"59WM+4C2, Tahunan, Yogyakarta City",Tahunan,Yogyakarta,4.6,19,P14,badminton
+37,C277,Gedung Olahraga Ust,-7.8072822,110.3844417,"Tahunan RT.22, Yogyakarta City",Tahunan RT.22,Yogyakarta,4.8,12,P15,badminton
+40,C859,Gor Sbf Bulutangkis Badminton,-7.8101717,110.4056244,"Jl. Wonosari No.5, pandansari, ketandan, Kabupaten Bantul",ketandan,Bantul,4.9,19,P16,badminton
+42,C723,Lapangan Batminton Klitren Lor,-7.7865519,110.3790261,"Jl. Dr. Wahidin Sudirohusodo No.24, Klitren, Kota Yogyakarta",Klitren,Yogyakarta,5.0,3,P17,badminton
+44,C424,Lapangan Gondolayu,-7.7818554,110.3707448,"699C+775, kampung gondolayu lor, cokrodiningraan, Jetis, yogyakarta, Sarah Istimewa Yogyakarta, Cokrodiningratan, Kota Yogyakarta",Cokrodiningratan,Yogyakarta,4.8,8,P18,badminton
+45,C224,Lapangan Gemblakan Bawah,-7.7934995,110.3682878,"6949+J83, Suryatmajan, Yogyakarta City",Suryatmajan,Yogyakarta,4.8,8,P19,badminton
+46,C744,Gor Kebon Ndalem Jogoyudan,-7.7840877,110.3678457,"Jl. Kb. Dalem No.3, Gowongan, Kota Yogyakarta",Gowongan,Yogyakarta,5.0,3,P20,badminton
+48,C572,Grayag,-7.8004064,110.3544474,"59X3+RQP, Jl. Gampingan, Pakuncen, Kota Yogyakarta",Pakuncen,Yogyakarta,4.8,13,P21,badminton
+49,C459,Lapangan Bulu Tangkis Widuri,-7.8052857,110.3455159,"58VW+V6J, Wirobrajan, Yogyakarta City",Wirobrajan,Yogyakarta,4.8,10,P22,badminton
+51,C969,Gor Badminton Kopertis V Yogyakarta,-7.785241,110.3599393,"6975+VXW, Bumijo, Yogyakarta City",Bumijo,Yogyakarta,4.6,16,P23,badminton
+52,C885,Gedung Serbaguna Tompeyan,-7.7840947,110.3548544,"Jl. Tompeyan No.218, Tegalrejo, Kota Yogyakarta",Tegalrejo,Yogyakarta,4.8,14,P24,badminton
+54,C680,Gor Badminton Kelurahan Kricak,-7.7742075,110.359457,"69G5+8QG, Kricak, Yogyakarta City",Kricak,Yogyakarta,4.1,7,P25,badminton
+62,V973,Lapangan Bola Voli Kruwet,-7.7580495,110.2628985,"67R7+V72, Kruwet, Sumberagung, Kabupaten Sleman",Sumberagung,Sleman,4.4,9,P26,voli
+67,S458,Lapangan Mlati,-7.7326043,110.3294656,"788H+XQ4, Area Sawah, Tlogoadi, Kabupaten Sleman",Tlogoadi,Sleman,4.6,5,P27,sepak bola
+70,V241,Lapangan Volly Kalurahan Margokaton,-7.7235875,110.2967805,"77GW+HP6, Jl. Sonoharjo, Bokong, Margokaton, Kabupaten Sleman",Margokaton,Sleman,5.0,3,P28,voli
+72,V690,Lapangan Bola Voli Tokerten,-7.7251125,110.3212886,"78FC+XG3, Tokertek, Sumberadi, Kabupaten Sleman",Sumberadi,Sleman,5.0,4,P29,voli
+73,V245,Lapangan Voly Bantulan,-7.7252707,110.2954795,"BANTULAN, RW.25 RT04, MARGOKATON, SEYEGAN, SLEMAN, Bontulan, Margokaton, Kabupaten Sleman",Margokaton,Sleman,4.3,9,P30,voli
+79,V541,Lapangan Bola Voli Mandungan,-7.7572631,110.3113875,"68V6+3HR, Jalan, Mandungan I, Margoluwih, Sleman Regency",Margoluwih,Sleman,4.9,8,P31,voli
+86,V995,Lapangan Bola Voli Dwarapala,-7.7848328,110.3182835,"Jl. Mejing Lor, RT.01/RW.02, Mejing Lor, Ambarketawang, Kabupaten Sleman",Ambarketawang,Sleman,4.8,13,P32,voli
+91,S124,Lapangan Nglempong Sariharjo Tengah,-7.7387778,110.3828315,"796M+F4P, Tambak Rejo, Sariharjo, Kabupaten Sleman",Sariharjo,Sleman,4.7,16,P33,sepak bola
+92,S285,Lapangan Sepak Bola Kentungan,-7.7496927,110.3859506,"Kaliurang St No.Km 6,5, Kentungan, Condongcatur, Sleman Regency",Condongcatur,Sleman,4.4,18,P34,sepak bola
+93,S379,Lapangan Ft Uny,-7.7686883,110.3883267,"69JQ+G8G, Karang Gayam, Caturtunggal, Sleman Regency",Caturtunggal,Sleman,4.9,8,P35,sepak bola
+94,S798,Lapangan Lempongsari,-7.7387743,110.3826984,"796M+F3W, Randuguang, Sariharjo, Kabupaten Sleman",Sariharjo,Sleman,3.9,17,P36,sepak bola
+110,S100,Lapangan Kayen Wedomartani Ngemplak Sleman Yogyakarta,-7.7363046,110.421343,"Jl. Stadion Jl. Kayen Raya No.RT03/40, Blotan, Wedomartani, Kabupaten Sleman",Wedomartani,Sleman,4.5,14,P37,sepak bola
+114,V193,Lapangan Bintang Utara,-7.7277451,110.4396199,"7CCQ+WR5, Jalan, Gondang Legi, Wedomartani, Sleman Regency",Wedomartani,Sleman,4.7,9,P38,voli
+119,B36,Lapangan Basket Donoharjo Basketball Court,-7.6900411,110.3891917,"Gondong, Donoharjo, Sleman Regency",Donoharjo,Sleman,5.0,18,P39,basket
+137,S666,Gelora Hargobinangun,-7.6021421,110.4227766,"9CXF+44R, Kaliurang Barat, Kaliurang, Hargobinangun, Kabupaten Sleman",Hargobinangun,Sleman,4.8,4,P40,sepak bola
+138,S271,Lapangan Mini Soccer Kepuharjo,-7.6271688,110.4468076,"9CFW+4PM, Pager Jurang, Kepuharjo, Kabupaten Sleman",Kepuharjo,Sleman,4.6,10,P41,sepak bola
+139,T756,Lapangan Tenis Sumber Baru,-7.5954785,110.4300099,"CC3J+R22, Kaliurang, Hargobinangun, Kabupaten Sleman",Hargobinangun,Sleman,4.9,19,P42,tenis
+142,S404,Lapangan Desa Talun,-7.6486015,110.4933945,"9F2V+H92, Jl.macan kumbang, Ngemplak, Talun, Kabupaten Klaten",Talun,Klaten,4.7,6,P43,sepak bola
+143,V351,Lapangan Scivo,-7.6858195,110.4513671,"8F72+MGH, Balong, Bimomartani, Kabupaten Sleman",Bimomartani,Sleman,4.7,15,P44,voli
+147,F306,Jambumarong Futsalland,-7.771881,110.2465994,"66HW+6JX, Kaliduren 3, Sumberagung, Sleman Regency",Sumberagung,Sleman,4.3,3,P45,futsal
+160,F165,Rubic Futsal And Sport,-7.7644936,110.4032139,"6CP3+674, Jl. Wahid Hasyim, Ngropoh, Condongcatur, Kabupaten Sleman",Condongcatur,Sleman,5.0,15,P46,futsal
+169,F73,Sport Center,-7.6852532,110.4178528,"8C79+V4X, Ngemplak, Umbulmartani, Kabupaten Sleman",Umbulmartani,Sleman,5.0,3,P47,futsal
+178,C202,Lapangan Rejosari,-7.7294323,110.2426903,"76CV+63G, Ngoro Oro, Plombangan, Sendangagung, Kabupaten Sleman",Sendangagung,Sleman,4.4,14,P48,badminton
+185,C854,Sewa Lapangan Badminton Bulutangkis Patukan,-7.7945596,110.3227785,"684F+54H, Jl. Gamping Tengah, Patukan, Ambarketawang, Kabupaten Sleman",Ambarketawang,Sleman,4.5,17,P49,badminton
+196,C988,Lapangan Badminton Blotan,-7.7360295,110.4157531,"Jl. Blotan Sono No.1, RW.06, Blotan, Wedomartani, Kabupaten Sleman",Wedomartani,Sleman,4.6,7,P50,badminton
+197,C468,Kpmb Arena Lap Badminton  Gedung Serbaguna,-7.7657058,110.4032582,"Jl. Wahid Hasyim, Ngropoh, Condongcatur, Kabupaten Sleman",Condongcatur,Sleman,4.8,19,P51,badminton
+201,C174,Lapangan Badminton Jogotirto,-7.8145196,110.4687225,"5FP9+5FX, Rejosari, Jogotirto, Kabupaten Sleman",Jogotirto,Sleman,3.8,6,P52,badminton
+202,C34,Lapangan Badminton Pab Diy,-7.7790052,110.4532459,"6FC3+97X, Cupuwatu I, Purwomartani, Kabupaten Sleman",Purwomartani,Sleman,4.8,6,P53,badminton
+206,C795,Gedung Aula Muslimin Kranggan,-7.8172215,110.4802231,"Jl. Kranggan No.2, Krnggan 2, Jogotirto, Kabupaten Sleman",Jogotirto,Sleman,4.7,15,P54,badminton
+207,C812,Lapangan Badminton Moy,-7.6769542,110.4641859,"8FF7+6M7, Cangkringan, Argomulyo, Kabupaten Sleman",Argomulyo,Sleman,4.8,12,P55,badminton
+210,C637,Gor Kitta Badminton Academy,-7.7314921,110.3955357,"Kaliurang St No.8, Dayu, Sinduharjo, Sleman Regency",Sinduharjo,Sleman,5.0,9,P56,badminton
+212,C619,May Badminton Sport,-7.7353593,110.3649098,"7977+VXR, Jl. Jongke, Jongke Tengah, Sendangadi, Kabupaten Sleman",Sendangadi,Sleman,3.1,18,P57,badminton
+213,C971,Gor Gama Asri,-7.6429095,110.3714565,"994C+RHW, Gg. Flamboyan, Gamasari, Donokerto, Kabupaten Sleman",Donokerto,Sleman,4.3,16,P58,badminton
+217,S840,Lapangan Balong,-8.0316281,110.401662,"XC92+8MV, Widoro, Giripurwo, Kabupaten Gunung Kidul",Giripurwo,Gunung Kidul,4.6,14,P59,sepak bola
+219,S381,Lapangan Gebang,-7.9996764,110.426863,"2C2G+4PH, Gebang, Girisuko, Kabupaten Gunung Kidul",Girisuko,Gunung Kidul,3.8,6,P60,sepak bola
+220,V131,Bangun Putra Banyusoca Volleyball Field,-7.9712004,110.4687445,"2FH9+GF9, Unnamed Road, Banyusoco, Kabupaten Gunung Kidul",Banyusoco,Gunung Kidul,4.0,3,P61,voli
+221,S40,Lapangan Tlogo Gede,-8.0325122,110.4656977,"XF88+X7W, Unnamed Road, Blimbing, Girisekar, Kabupaten Gunung Kidul",Girisekar,Gunung Kidul,4.8,8,P62,sepak bola
+222,V826,Lap Garuda  Volly Ball Club,-7.9881776,110.4541297,"2F63+PMC, Klepu, Banyusoco, Kabupaten Gunung Kidul",Banyusoco,Gunung Kidul,4.1,9,P63,voli
+226,V546,Volleyball Court,-8.036093,110.448557,"XC7X+HC7, Macan Mati, Girimulyo, Kabupaten Gunung Kidul",Girimulyo,Gunung Kidul,3.6,9,P64,voli
+228,V429,Kedungwanglu Volleyball Field,-7.9661586,110.4468776,"2CMW+GQJ, Kedungwanglu, Banyusoco, Kabupaten Gunung Kidul",Banyusoco,Gunung Kidul,4.8,4,P65,voli
+229,V590,Lapangan Bola Voli Krida Manggala,-8.0454725,110.4631447,"XF37+V76, Bali, Girisekar, Kabupaten Gunung Kidul",Girisekar,Gunung Kidul,4.7,7,P66,voli
+230,S206,Lapangan Jambe,-8.0312872,110.3679778,"X999+F5Q, Area Hutan, Giricahyo, Kabupaten Gunung Kidul",Giricahyo,Gunung Kidul,4.5,17,P67,sepak bola
+231,S197,Lapangan Nglarangan,-8.0192418,110.367448,"X9J8+8X4, Area Hutan, Giricahyo, Kabupaten Gunung Kidul",Giricahyo,Gunung Kidul,3.8,10,P68,sepak bola
+232,V265,Lapangan Voli Rt  Rw  Dusun Wuni,-8.0242241,110.3598922,"X9G5+8X6, Dogmin, Giricahyo, Kabupaten Gunung Kidul",Giricahyo,Gunung Kidul,5.0,4,P69,voli
+233,S143,Lapangan Gerdayak Girijati,-8.0040746,110.3470502,"X8WW+9RF, Dringo, Girijati, Kabupaten Gunung Kidul",Girijati,Gunung Kidul,5.0,3,P70,sepak bola
+235,V683,Jorong Volleyball Field,-7.9842772,110.3567313,"2984+7MQ, Jorong, Girijati, Kabupaten Gunung Kidul",Girijati,Gunung Kidul,4.4,17,P71,voli
+236,S259,Lapangan Kamal,-8.0392449,110.5735721,"Kamal, Wunung, Kabupaten Gunung Kidul",Wunung,Gunung Kidul,4.1,7,P72,sepak bola
+237,S680,Lapangan Grogol,-7.980638,110.539903,"2G9Q+PXR, Grogol, Kabupaten Gunung Kidul",Grogol,Gunung Kidul,4.6,5,P73,sepak bola
+238,S559,Lapangan Sepak Bola Duwet,-7.9995473,110.5922423,"Jl. Baron Km 3, Dungabah II, Duwet, Kabupaten Gunung Kidul",Duwet,Gunung Kidul,4.2,6,P74,sepak bola
+239,S437,Lapangan Desa Mulusan,-8.0076958,110.5444178,"XGRV+WQF, Watugilang A, Mulusan, Kabupaten Gunung Kidul",Mulusan,Gunung Kidul,3.0,3,P75,sepak bola
+240,S104,Lapangan Desa Giring,-8.0177468,110.5628272,"XHJ7+W44, Giring, Kabupaten Gunung Kidul",Giring,Gunung Kidul,4.7,7,P76,sepak bola
+242,S593,Lapangan Trukan,-8.0093947,110.5345315,"XGRM+6RV, Trukan, Manggul, Karangasem, Kabupaten Gunung Kidul",Karangasem,Gunung Kidul,4.3,17,P77,sepak bola
+243,V952,Lapangan Voli Trukan,-8.0096652,110.5351763,"XGQP+X3H, Manggul, Karangasem, Kabupaten Gunung Kidul",Karangasem,Gunung Kidul,4.8,4,P78,voli
+245,S857,Lapangan Banjaran,-8.0498233,110.5217495,"Jl. Paliyan Ngobaran No.16, Banjaran, Karangasem, Kabupaten Gunung Kidul",Karangasem,Gunung Kidul,4.4,9,P79,sepak bola
+248,V155,Lapangan Bola Voli GavokA,-8.0901971,110.4939413,"WF5V+WHG, Unnamed Road, Klumpit, Kanigoro, Kabupaten Gunung Kidul",Kanigoro,Gunung Kidul,4.9,7,P80,voli
+251,V847,Lapangan Tahunan Desa Karangduwet,-8.0005034,110.5086157,"XGX5+QCX, tahunan, Pendem, Karangduwet, Kabupaten Gunung Kidul",Karangduwet,Gunung Kidul,3.3,3,P81,voli
+252,V272,Lapangan Bola Voli Dusun Wuluh,-8.0755251,110.5424776,"WGFR+QXQ, Wuluh, Planjan, Kabupaten Gunung Kidul",Planjan,Gunung Kidul,5.0,4,P82,voli
+253,S381,Lapangan Karang,-8.095741,110.612172,"WJ36+PV3, Bruno II, Ngestirejo, Kabupaten Gunung Kidul",Ngestirejo,Gunung Kidul,3.6,10,P83,sepak bola
+255,S497,Lapangan Ngrasak Temuireng,-8.1054766,110.6905027,"VMVR+R62, Temuireng,, Trenggulin, Giripanggung, Kabupaten Gunung Kidul",Giripanggung,Gunung Kidul,4.6,10,P84,sepak bola
+256,S722,Lapangan Padangan,-8.0969762,110.5996962,"WH3X+6V4, Unnamed Road, Weru, Banjarejo, Kabupaten Gunung Kidul",Banjarejo,Gunung Kidul,3.9,18,P85,sepak bola
+258,V204,Lapangan Tepus,-8.1265837,110.6459626,"VJFW+998, Jl. Pantai Sel. Jawa, Dongsari, Tepus, Kabupaten Gunung Kidul",Tepus,Gunung Kidul,4.3,4,P86,voli
+260,S717,Lapangan Nglerak,-8.08042,110.6804682,"WM9J+R5P, Klepu, Giripanggung, Kabupaten Gunung Kidul",Giripanggung,Gunung Kidul,4.7,3,P87,sepak bola
+261,V733,Lapangan Atip Manunggal,-8.1486185,110.687055,"VM2P+HR3, Kotekan, Wuluh, Purwodadi, Kabupaten Gunung Kidul",Purwodadi,Gunung Kidul,3.5,6,P88,voli
+262,V579,Lapangan Bola Volly Candra  Bolang Giripanggung,-8.0932337,110.6749978,"Bolang, RT.04/RW.06, Bolang, Giripanggung, Kabupaten Gunung Kidul",Giripanggung,Gunung Kidul,4.1,14,P89,voli
+264,V824,Lap Bola Volly Dusun Regedeg,-8.0876445,110.678299,"WM6H+M4C, Regedeg, Giripanggung, Kabupaten Gunung Kidul",Giripanggung,Gunung Kidul,5.0,7,P90,voli
+268,S205,Lapangan Mendang,-8.0716559,110.6147045,"WJH7+8VP, Kedu, Ngestirejo, Kabupaten Gunung Kidul",Ngestirejo,Gunung Kidul,4.2,12,P91,sepak bola
+269,V354,Padmanaba Volleyball Field,-8.0713412,110.5743446,"WHHF+FP9, Kemin, Kemiri, Kabupaten Gunung Kidul",Kemiri,Gunung Kidul,4.8,4,P92,voli
+271,V380,Lapangan Volly Tunas Manunggal,-8.0513739,110.639818,"WJXQ+FW4, Canduhan, Hargosari, Kabupaten Gunung Kidul",Hargosari,Gunung Kidul,3.8,4,P93,voli
+272,V916,Lapangan Bola Volly Porpura,-8.0702378,110.5856247,"WHHP+W65, Jl. Guyangan Kidul, Guyangan, Kemiri, Kabupaten Gunung Kidul",Kemiri,Gunung Kidul,4.8,5,P94,voli
+274,V468,Lapagan Volly Marutho,-8.037976,110.6274171,"XJ6G+RX3, Kuwangen Kidul, Pacarejo, Kabupaten Gunung Kidul",Pacarejo,Gunung Kidul,5.0,3,P95,voli
+277,V121,Lapangan Voli Plalar,-8.1216574,110.7423595,"VPHR+8WQ, Plalar, RT.29/RW.08, Pakel, Pringombo, Kabupaten Gunung Kidul",Pringombo,Gunung Kidul,4.3,8,P96,voli
+279,S636,Lapangan Wetan Jlubang,-8.0377795,110.7495451,"XP6X+VRM, Dusun Ngejring, Desa, Mekong, Karangwuni, Kabupaten Gunung Kidul",Karangwuni,Gunung Kidul,3.6,17,P97,sepak bola
+280,S370,Lapangan Sepak Bola Tlogo Mati Siyono,-8.0977593,110.7380334,"WP2Q+V6V, Siyono C, Petir, Kabupaten Gunung Kidul",Petir,Gunung Kidul,4.3,11,P98,sepak bola
+281,V732,Gelora Bimmov Bungmanis,-8.0514192,110.7394236,"Jl. Bungmanis, Pucanganom B, Pucanganom, Kabupaten Gunung Kidul",Pucanganom,Gunung Kidul,4.0,6,P99,voli
+282,S572,Lapangan Tambak,-8.1101505,110.7680296,"VQQ9+W6J, Tambak, Melikan, Kabupaten Gunung Kidul",Melikan,Gunung Kidul,4.8,5,P100,sepak bola
+283,S604,Lapangan Bola Miri,-8.1178052,110.7363071,"VPJP+VGF, Ngendoringan, Pringombo, Kabupaten Gunung Kidul",Pringombo,Gunung Kidul,4.7,3,P101,sepak bola
+286,V390,Lapangan Baktimuda,-8.1130309,110.7089294,"Gunungbutak RT04/RW13, Pringapus, Giripanggung, Kabupaten Gunung Kidul",Giripanggung,Gunung Kidul,4.6,7,P102,voli
+287,S754,Lapangan Sepakbola Dayaan,-8.134172,110.7262699,"VP8G+8GJ, Weru, Botodayaan, Kabupaten Gunung Kidul",Botodayaan,Gunung Kidul,4.6,7,P103,sepak bola
+288,S931,Lapangan Banjar,-8.1043411,110.7031597,"VPW3+777, Gn. Bunthak, Giripanggung, Kabupaten Gunung Kidul",Giripanggung,Gunung Kidul,4.0,10,P104,sepak bola
+294,S993,Lapangan Karangmojo,-7.9516873,110.6763299,"2MXG+8GG, Gedang Rejo, Gedangrejo, Kabupaten Gunung Kidul",Gedangrejo,Gunung Kidul,4.2,5,P105,sepak bola
+297,V150,Lapangan Bola Voli Ngrejek,-8.0291718,110.7020083,"XPC2+8RJ, Unnamed Road, Ngrejek Wetan, Gombang, Kabupaten Gunung Kidul",Gombang,Gunung Kidul,4.1,8,P106,voli
+298,S731,Lapangan Nggawok,-7.9547336,110.6860291,"Jl. Karangmojo No.16, Karang Mojo II, Karangmojo, Kabupaten Gunung Kidul",Karangmojo,Gunung Kidul,4.6,7,P107,sepak bola
+299,S975,Lapangan Telogo Timbo,-8.0178909,110.6889242,"XMJQ+RHV, Pakrandu, Gombang, Kabupaten Gunung Kidul",Gombang,Gunung Kidul,4.0,7,P108,sepak bola
+300,S681,Lapangan Sepak Bola,-7.9890462,110.6934662,"2M6V+99P, Bolo Dukuh Kidul, Sidorejo, Kabupaten Gunung Kidul",Sidorejo,Gunung Kidul,2.3,3,P109,sepak bola
+302,S766,Lapangan Sumber Seng,-7.9714895,110.6731159,"2MHF+C65, Coyudan 2, Ngipak, Kabupaten Gunung Kidul",Ngipak,Gunung Kidul,4.3,4,P110,sepak bola
+304,S94,Lapangan Gombang Ponjong,-8.0199115,110.7020845,"XPJ2+2RP, Sawit Lor, Gombang, Kabupaten Gunung Kidul",Gombang,Gunung Kidul,4.3,8,P111,sepak bola
+305,S651,Lapangan Genjahan,-7.9537789,110.7138017,"2PW7+FGM, Genjahan, Kabupaten Gunung Kidul",Genjahan,Gunung Kidul,4.3,3,P112,sepak bola
+307,S658,Lapangan Sumbergiri,-7.961867,110.7238751,"2PQF+7H2, Sumber Giri, Sumbergiri, Kabupaten Gunung Kidul",Sumbergiri,Gunung Kidul,4.8,12,P113,sepak bola
+310,S426,Lapangan Bola Prampelan,-7.9750419,110.7598138,"2QF5+XWP, Prampelan, Prampelan I, Kenteng, Kabupaten Gunung Kidul",Kenteng,Gunung Kidul,4.5,15,P114,sepak bola
+313,S396,Lapangan Parikesit,-7.9973337,110.6712545,"2M3C+3G6, Gn. Sari, Ngeposari, Kabupaten Gunung Kidul",Ngeposari,Gunung Kidul,4.3,4,P115,sepak bola
+314,S22,Tanah Lapang Sokoliman,-7.9177143,110.6583644,"3MJ5+W89, Jl. Sokoliman 2, Sokoliman I, Bejiharjo, Kabupaten Gunung Kidul",Bejiharjo,Gunung Kidul,4.2,19,P116,sepak bola
+316,S103,Lapangan Surodadi,-7.9096553,110.717831,"3PR9+44P, Unnamed Road, Surodadi, Umbulrejo, Kabupaten Gunung Kidul",Umbulrejo,Gunung Kidul,4.7,7,P117,sepak bola
+324,S295,Lapangan Desa Bandung,-7.9253219,110.5628887,"Jl. Jogja - Wonosari No.8, Jambu Rejo, Bandung, Kabupaten Gunung Kidul",Bandung,Gunung Kidul,4.1,8,P118,sepak bola
+325,S280,Lapangan Desa Dengok,-7.9529535,110.5284537,"2GWH+R98, Dengok V, Dengok, Kabupaten Gunung Kidul",Dengok,Gunung Kidul,4.4,16,P119,sepak bola
+328,V272,Lapangan Voli Gubukrubuh,-7.9378452,110.5053623,"3G64+V48, Gubuk Rubuh, Getas, Kabupaten Gunung Kidul",Getas,Gunung Kidul,4.8,5,P120,voli
+331,S273,Lapangan Patuk,-7.8505244,110.4793951,"Jl. Dlingo-Patuk No.16, Patuk, Kabupaten Gunung Kidul",Patuk,Gunung Kidul,4.0,7,P121,sepak bola
+332,S661,Lapangan Mberan,-7.8735785,110.5555104,"Jl. Sambipitu Nglipar No.1945, Trukan, Bunder, Kabupaten Gunung Kidul",Bunder,Gunung Kidul,3.5,8,P122,sepak bola
+333,S437,Lapangan Desa Nglangeran,-7.8579243,110.5143892,"4GR7+RQJ, Doga, Nglanggeran, Kabupaten Gunung Kidul",Nglanggeran,Gunung Kidul,4.5,4,P123,sepak bola
+334,S707,Lapangan Semoyo,-7.8804798,110.4825812,"4F9M+R24, Pugeran, Semoyo, Kabupaten Gunung Kidul",Semoyo,Gunung Kidul,3.7,3,P124,sepak bola
+335,S772,Lapangan NgoroOro,-7.8356254,110.5254407,"5G7G+P5V, Sengoran, Ngoro-oro, Kabupaten Gunung Kidul",Ngoro-oro,Gunung Kidul,4.3,3,P125,sepak bola
+337,S22,Lapangan Bola Voli Srumbung,-7.881468,110.4857308,"4F9P+C79, Pengkok, Patuk, Pugeran, Semoyo, Kabupaten Gunung Kidul",Semoyo,Gunung Kidul,3.4,8,P126,sepak bola
+338,S629,Lapangan Voli Langgeng Utama  ,-7.8874704,110.5453318,"Bunder,14/04, Bunder, Kabupaten Gunung Kidul",Bunder,Gunung Kidul,4.0,9,P127,sepak bola
+341,S482,Lapangan Voli Pugeran,-7.8723069,110.4745121,"4FHF+3RC, Pugeran, Semoyo, Kabupaten Gunung Kidul",Semoyo,Gunung Kidul,4.4,12,P128,sepak bola
+343,S260,Lapangan Ngalang,-7.8808272,110.5750212,"4H9G+M26, Sumberejo, Ngalang, Kabupaten Gunung Kidul",Ngalang,Gunung Kidul,4.3,7,P129,sepak bola
+344,S580,Lapangan Desa Hargomulyo,-7.8425013,110.5913963,"5H4R+XHR, Pace A, Hargomulyo, Kabupaten Gunung Kidul",Hargomulyo,Gunung Kidul,4.7,13,P130,sepak bola
+346,S3,Lapangan Gojo,-7.8708552,110.6232288,"4JHF+M75, Gojo, Kedungpoh, Kabupaten Gunung Kidul",Kedungpoh,Gunung Kidul,3.7,3,P131,sepak bola
+348,S87,Lapangan Volly Tunas Fajar Merah,-7.8843469,110.5819949,"4H8J+7Q9, Kenteng, Ngalang, Kabupaten Gunung Kidul",Ngalang,Gunung Kidul,4.3,3,P132,sepak bola
+350,S488,Lapangan Voley Kembang,-7.864705,110.5589034,"4HP5+4H6, Nglegi, Kabupaten Gunung Kidul",Nglegi,Gunung Kidul,4.0,3,P133,sepak bola
+351,S489,Nvc,-7.8788589,110.5809578,"4HCJ+F94, Melikan, Ngasem, Wareng, Ngalang, Kabupaten Gunung Kidul",Ngalang,Gunung Kidul,4.5,8,P134,sepak bola
+352,S568,Official Tunas Gk Volleyball Club,-7.8845893,110.5821807,"4H8J+5V7, Kenteng, Ngalang, Kabupaten Gunung Kidul",Ngalang,Gunung Kidul,4.0,4,P135,sepak bola
+355,S873,Kwarasan Kulon Field,-7.9039138,110.6143467,"3JW7+CPQ, Kwarasan Kulon, Kedung Keris, Kabupaten Gunung Kidul",Kedung Keris,Gunung Kidul,3.8,17,P136,sepak bola
+361,S182,Lapangan Semin,-7.8656798,110.7329305,"4PMM+P5F, Semin, Kabupaten Gunung Kidul",Semin,Gunung Kidul,4.3,11,P137,sepak bola
+363,S107,Lapangan Watusigar,-7.8640291,110.6896953,"4MPQ+9VP, Watusigar, Kabupaten Gunung Kidul",Watusigar,Gunung Kidul,4.2,18,P138,sepak bola
+365,S52,Stadion Sepak Bola Ngawen,-7.8468543,110.6821996,"5M3J+7V4, Grojokan, Beji, Kabupaten Gunung Kidul",Beji,Gunung Kidul,4.8,4,P139,sepak bola
+366,F454,Lapangan PencilBendung,-7.8503009,110.7264686,"4PXG+VHJ, Pencil, Bendung, Kabupaten Gunung Kidul",Bendung,Gunung Kidul,4.8,5,P140,futsal
+368,V857,Lapangan Badminton Ngunut,-7.8682581,110.6678487,"4MJ9+M4X, Unnamed Road, Jeruklegi, Katongan, Kabupaten Gunung Kidul",Katongan,Gunung Kidul,3.6,8,P141,voli
+369,V607,Gelora Sumur Gede,-7.8136789,110.6803284,"5MPJ+G4G, Kaliwuluh, Jurangjero, Kabupaten Gunung Kidul",Jurangjero,Gunung Kidul,5.0,4,P142,voli
+372,V797,Lapangan Rejosari,-7.858477,110.7722028,"Jl. Semin-Manyaran No.Km.5, Kepuh, Rejosari, Kabupaten Gunung Kidul",Rejosari,Gunung Kidul,4.0,5,P143,voli
+373,V927,Lapangan Sepak Bola Pringgodani Kutugan,-7.8917352,110.7640385,"4Q57+8J3, Kutugan, Pundung Sari, Kabupaten Gunung Kidul",Pundung Sari,Gunung Kidul,4.0,3,P144,voli
+382,F513,Lapangan Futsal Rahayu,-8.052378,110.802262,"WRX2+2VG, Blindas, Pracimantoro, Kabupaten Wonogiri",Pracimantoro,Wonogiri,4.2,9,P145,futsal
+384,F137,Lapangan Futsal Kjm,-7.9520762,110.6675594,"2MX9+527, Sudimoro, Kelor, Kabupaten Gunung Kidul",Kelor,Gunung Kidul,4.0,3,P146,futsal
+385,F176,Goal Futsal,-7.943515,110.605981,"3J44+H9X, Unnamed Road, Budengan II, Piyaman, Kabupaten Gunung Kidul",Piyaman,Gunung Kidul,3.6,7,P147,futsal
+387,F854,Futsal Mengger Jaya Dan Murah Bersahabat,-7.9459758,110.5590788,"3H35+HPJ, Jl. Manthous, Jatisari, Kabupaten Gunung Kidul",Jatisari,Gunung Kidul,4.7,3,P148,futsal
+388,F145,Pmsport  Putra Mustika  Futsal Arena,-7.9635904,110.5448854,"km.2 plembutan barat 20/05, Jl. Playen Paliyan, Plembutan Timur, Plembutan, Kabupaten Gunung Kidul",Plembutan,Gunung Kidul,3.5,19,P149,futsal
+390,F994,Lapangan Futsal Darrul Ilmi,-7.8015017,110.5748783,"Karangasem 02/02, Sampang, Kabupaten Gunung Kidul",Sampang,Gunung Kidul,5.0,5,P150,futsal
+392,F35,Huras Sport Center,-7.8681683,110.773042,"Jl. Karto Rejo, Dusun Karang, Karang Sari, Kabupaten Gunung Kidul",Karang Sari,Gunung Kidul,5.0,7,P151,futsal
+393,F366,Gor BF Badminton Dan Futsal,-7.8662454,110.7441482,"4PMV+MXV, Semin Wetan, Pundung Sari, Kabupaten Gunung Kidul",Pundung Sari,Gunung Kidul,5.0,3,P152,futsal
+394,F958,Gor Badminton  Futsal Kere Elit,-7.8663925,110.7441623,"Pelem, Pundung Sari, Gunung Kidul Regency",Pundung Sari,Gunung Kidul,5.0,6,P153,futsal
+396,C456,Gor Badminton Siraman,-7.972433,110.5898224,"2HHR+22J, Jl. KRT Judodiningrat, Seneng, Siraman, Kabupaten Gunung Kidul",Siraman,Gunung Kidul,5.0,3,P154,badminton
+400,C260,Gor Amongrogo Bedoyo Kulon,-8.0184039,110.7390547,"XPJQ+JJM, Bedoyo Kulon, Bedoyo, Kabupaten Gunung Kidul",Bedoyo,Gunung Kidul,4.6,9,P155,badminton
+401,C332,Badminton Bima,-7.9236761,110.5872829,"gebangrejo, piyaman 2, Kalidadap, Gari, Kabupaten Gunung Kidul",Gari,Gunung Kidul,3.4,7,P156,badminton
+407,C660,Pb Pandawa Tengklik,-7.8701621,110.6537423,"4MH3+VM3, Kepuh Sari, Katongan, Kabupaten Gunung Kidul",Katongan,Gunung Kidul,5.0,4,P157,badminton
+409,C409,Gedung Bulutangkis,-7.8644367,110.6921495,"4MPR+6V9, Sambirejo, Watusigar, Kabupaten Gunung Kidul",Watusigar,Gunung Kidul,5.0,3,P158,badminton
+411,C715,Gedung Bulutangkis Klepu,-7.8583929,110.7693854,"4QR9+JQR, Klepu, Rejosari, Kabupaten Gunung Kidul",Rejosari,Gunung Kidul,4.7,11,P159,badminton
+420,V484,Lapangan Bola Volly Patram Jaya,-7.9579325,110.2567251,"Blantikan,dsn 3, Ketalo, Gadingsari, Kabupaten Bantul",Gadingsari,Bantul,4.9,11,P160,voli
+421,V559,Lapangan Bola Voly Mondosio,-7.9653884,110.2476844,"26MX+R3M, gunturgeni di dekat, Gn. Sari, Poncosari, Kabupaten Bantul",Poncosari,Bantul,3.9,10,P161,voli
+423,S948,Lapangan Kadikoro,-7.9608984,110.2520329,"27Q2+JRV, Jl. Renegage, Padomiyo, Poncosari, Kabupaten Bantul",Poncosari,Bantul,4.9,7,P162,sepak bola
+425,V144,Lapangan Volli Demakan,-7.9734583,110.2522969,"Demakan, Gadingsari, Bantul Regency",Gadingsari,Bantul,4.6,7,P163,voli
+427,S335,Stadion Klampok,-7.9372846,110.2349218,"367M+3XM, Klampok, Brosot, Kabupaten Kulon Progo",Brosot,Kulon Progo,3.5,4,P164,sepak bola
+433,V452,Lapangan Bola Voly Tegalsari,-7.9966853,110.2780654,"273H+86G, Sorekam, Srigading, Kabupaten Bantul",Srigading,Bantul,4.9,8,P165,voli
+436,V299,Lapangan Volly Tokolan,-7.9784555,110.2913873,"Jl. Tokolan No.1, Tokolan, Tirtomulyo, Kabupaten Bantul",Tirtomulyo,Bantul,4.7,3,P166,voli
+438,V614,Lapangan Bola Volly Dusun Demangan,-7.9855682,110.2581591,"2775+Q7F, Demangan, Gadingsari, Kabupaten Bantul",Gadingsari,Bantul,5.0,6,P167,voli
+441,S142,Lapang Andalas Kalimundu,-7.9782643,110.2677238,"27C9+M3X, Kalimundu, Gadingharjo, Kabupaten Bantul",Gadingharjo,Bantul,4.9,8,P168,sepak bola
+442,V528,Lapangan Volly Baros,-7.9977424,110.2847421,"Baros, Tirtohargo, Bantul Regency",Tirtohargo,Bantul,5.0,5,P169,voli
+443,S981,Gor Mayungan,-7.9718072,110.2736636,"27HF+7FF, Unnamed Road, Piring II, Murtigading, Kabupaten Bantul",Murtigading,Bantul,4.0,6,P170,sepak bola
+445,S746,Lapangan Sepakbola Kretek,-7.9949101,110.3127845,"2847+24M, Kretek, Parangtritis, Bantul Regency",Parangtritis,Bantul,3.7,15,P171,sepak bola
+446,V46,Volleyball Field,-7.9698193,110.3126089,"28J7+32H, Jl. Glodogan, Kuwon, Sidomulyo, Kabupaten Bantul",Sidomulyo,Bantul,4.3,3,P172,voli
+447,S46,Lapangan Tanjung Tapuran,-7.9878214,110.2951461,"276W+V3C, Tapuran,Tegal Tapen, Tegal Paten, Tirtosari, Kabupaten Bantul",Tirtosari,Bantul,4.0,3,P173,sepak bola
+448,S636,Lapangan Tirtomulyo,-7.9697612,110.2991365,"27JX+3MR, genting, Tirtomulyo, Kecamatan Kretek, Karangweru, Tirtomulyo, Kabupaten Bantul",Tirtomulyo,Bantul,4.5,6,P174,sepak bola
+449,S783,Parangkusumo Tiken Field,-8.0197037,110.3260025,"X8JG+4C6, Pantai, Parangtritis, Bantul Regency",Parangtritis,Bantul,4.1,18,P175,sepak bola
+452,V692,Lapangan Voli Dusun Greges,-7.9748778,110.3102348,"28G6+23X, Methuk, Donotirto, Bantul Regency",Donotirto,Bantul,5.0,3,P176,voli
+454,S567,Lapangan Srihardono,-7.9563354,110.3518859,"29V2+FQ6, Tulung, Srihardono, Kabupaten Bantul",Srihardono,Bantul,4.6,15,P177,sepak bola
+455,V794,Lapangan Voli Ngentak,-7.9816753,110.3355213,"289P+86C, Ngentak, Seloharjo, Kabupaten Bantul",Seloharjo,Bantul,4.5,4,P178,voli
+475,S514,Lapangan Iroyudan,-7.878446,110.312525,"48C7+J2C, Jl. Jagad, Jagad, Iroyudan, Pajangan, Iroyudan, Guwosari, Kabupaten Bantul",Guwosari,Bantul,4.3,4,P179,sepak bola
+480,V368,Lapangan Bola Voli Bajang Glondong,-7.9092585,110.3056385,"38R4+77R, Daleman, Gilangharjo, Bantul Regency",Gilangharjo,Bantul,4.9,11,P180,voli
+481,S150,Lapangan Putra Panembahan,-7.8945049,110.2944319,"Pedak RT 001, Wijirejo, Kabupaten Bantul",Wijirejo,Bantul,4.7,6,P181,sepak bola
+484,V967,Lapangan Voli Sikebon,-7.9026008,110.2963931,"37WW+XHC, Kauman, Bantul, Bantul Regency",Bantul,Bantul,4.3,3,P182,voli
+485,V959,Lapangan Bola Voli Klebakan,-7.8986599,110.310903,"4826+G9J, Kadisoro, Gilangharjo, Bantul Regency",Gilangharjo,Bantul,4.8,6,P183,voli
+487,B715,Lapangan Basket Smkn  Pandak,-7.9218351,110.2946577,"Smkn 1 Pandak, Kadekrowo, Gilangharjo, Kabupaten Bantul",Gilangharjo,Bantul,3.8,4,P184,basket
+488,V955,Lapangan Voli Kunden,-7.8906758,110.2794142,"Kunden, Sendangsari, Bantul Regency",Sendangsari,Bantul,4.9,19,P185,voli
+493,S229,Lapangan Goa Selarong,-7.8640527,110.3170748,"48P8+PGM, Kembang Putihan, Guwosari, Bantul Regency",Guwosari,Bantul,4.3,3,P186,sepak bola
+494,S149,Gelora Gempolan Kulon,-7.8842034,110.3432323,"488V+879, Area Sawah, Bantul, Bantul Regency",Bantul,Bantul,3.8,13,P187,sepak bola
+495,S152,Lapangan Rotokenongo Asri,-7.8495536,110.3253689,"582G+54H, Jipangan, Bangunjiwo, Kabupaten Bantul",Bangunjiwo,Bantul,4.6,11,P188,sepak bola
+498,V64,Lapangan Voli Kalinongko,-7.8528029,110.306065,"48W4+VCG, Kalinongko, Bangunjiwo, Bantul Regency",Bangunjiwo,Bantul,4.7,9,P189,voli
+501,S923,Lapangan Voli Monggang,-7.857188,110.342816,"Monggang, Pendowoharjo, Bantul Regency",Pendowoharjo,Bantul,4.7,3,P190,sepak bola
+502,V845,Lapangan Bola Voli Karanggayam,-7.8984602,110.3307883,"482J+J87, Serayu, Karanggayam, Bantul Regency",Karanggayam,Bantul,4.8,8,P191,voli
+510,S247,Lapangan Kebon Jati Kiringan,-7.9388022,110.3569465,"3964+FQG, Kiringan, Canden, Kabupaten Bantul",Canden,Bantul,4.3,9,P192,sepak bola
+511,S929,Lapangan Banteng Mati,-7.9367357,110.3843406,"397M+8P4, Karang Rejeki, Karangtengah, Kabupaten Bantul",Karangtengah,Bantul,4.6,11,P193,sepak bola
+512,S256,Lapangan GeEs,-7.9148787,110.3500483,"Gelangan RT 15, Kabupaten Bantul",Gelangan RT 15,Bantul,5.0,5,P194,sepak bola
+513,V765,Ngibikan Volleyball Field,-7.9353284,110.359682,"Ngibikan No.rt 03, Nggibikan, Canden, Kabupaten Bantul",Canden,Bantul,4.5,15,P195,voli
+515,V269,Lapangan Voli Opak Jr Ktst,-7.8946899,110.3877182,"Sindet RT. 04, Karang Semut, Trimulyo, Kabupaten Bantul",Trimulyo,Bantul,4.8,5,P196,voli
+516,V652,Lapangan Volly Bakulan Wetan,-7.9071084,110.3483352,"Bakulan Wetan RT 07, Bakulan Kulon, Patalan, Kabupaten Bantul",Patalan,Bantul,4.8,6,P197,voli
+518,V666,Lapangan Bola Voli Pervoge,-7.899224,110.3679409,"4929+858, Pangkah, Sumberagung, Bantul Regency",Sumberagung,Bantul,5.0,3,P198,voli
+524,S796,Lapangan Mangunan,-7.9314457,110.4194594,"3C99+CQG, Cempluk, Mangunan, Kabupaten Bantul",Mangunan,Bantul,4.2,12,P199,sepak bola
+526,S798,Lapangan Girli Blawong,-7.8818883,110.3925498,"499V+62V, Blawong I, Trimulyo, Kabupaten Bantul",Trimulyo,Bantul,4.7,6,P200,sepak bola
+527,S789,Lapangan Banjarharjo,-7.9094873,110.4412286,"Banjarharjo II, Muntuk, Bantul Regency",Muntuk,Bantul,4.0,10,P201,sepak bola
+528,S825,Lapangan Jatimulyo,-7.9050131,110.4861619,"3FVP+XFV, Badean, Jatimulyo, Kabupaten Bantul",Jatimulyo,Bantul,4.2,10,P202,sepak bola
+529,S543,Lapangan Cemoro Tunggal,-7.9400989,110.4676691,"3F59+X37, Jl. Koripan 1, Koripan I, Dlingo, Kabupaten Bantul",Dlingo,Bantul,5.0,4,P203,sepak bola
+532,V231,Lapangan Bola Volly  Serda,-7.929416,110.4501861,"3FC2+63M, Jl. Raya Seropan 2, Seropan II, Muntuk, Kabupaten Bantul",Muntuk,Bantul,4.6,10,P204,voli
+533,V865,Lapangan Bola Voli,-7.887437,110.454957,"4F73+2XG, Terong I, Terong, Kabupaten Bantul",Terong,Bantul,4.5,8,P205,voli
+534,S81,Lapangan Voli Baratayuda,-7.9222918,110.4995804,"3FHX+2WJ, Gembuk, Getas, Kabupaten Gunung Kidul",Getas,Gunung Kidul,4.7,7,P206,sepak bola
+536,S534,Lapangan Sailendra,-7.9275149,110.470818,"3FFC+2FC, Jalan Playen, Ngunut, Temuwuh, Kabupaten Bantul",Temuwuh,Bantul,5.0,3,P207,sepak bola
+538,S672,Lapangan Bojong,-7.8952256,110.429109,"4C3H+WJ5, Bojong, Wonolelo, Kabupaten Bantul",Wonolelo,Bantul,4.0,4,P208,sepak bola
+544,S876,Lapangan Sepak Bola Sd Kepuhan,-7.8708565,110.3710238,"49HC+MC2, Sudimoro, Timbulharjo, Bantul Regency",Timbulharjo,Bantul,3.8,13,P209,sepak bola
+550,V950,Lapangan Volly Karangwuni,-7.8783606,110.3941964,"49CV+MM4, Blawong I, Trimulyo, Kabupaten Bantul",Trimulyo,Bantul,3.0,3,P210,voli
+555,S875,Lapangan Bleber Lor,-7.8151626,110.4931219,"5FMV+W6Q, Berjo, Sumberharjo, Kabupaten Sleman",Sumberharjo,Sleman,4.7,15,P211,sepak bola
+562,S395,Lapangan Voly Rukun Bintaran Kulon,-7.8332973,110.4518354,"5F82+MPP, Jl. Dusun Bintaran Kulon, RT.06, Bantaran Kulon, Srimulyo, Kabupaten Bantul",Srimulyo,Bantul,5.0,3,P212,sepak bola
+563,V911,Lapangan Voli Intra Kabregan,-7.8364278,110.4662864,"5F78+CGF, Kabrengan, Srimulyo, Kabupaten Bantul",Srimulyo,Bantul,4.7,3,P213,voli
+566,V115,Bleber Kidul Volleyball Stadium,-7.8184949,110.4922046,"5FJR+JV4, Jl. Melikan, Melikan, Sumberharjo, Kabupaten Sleman",Sumberharjo,Sleman,4.8,5,P214,voli
+570,S884,Lapangan Wonocatur,-7.7997351,110.4126838,"6C27+433, Gg. Merpati 1, Wonocatur, Banguntapan, Kabupaten Bantul",Banguntapan,Bantul,5.0,5,P215,sepak bola
+574,S849,Lapangan Pajangan,-7.8241396,110.436361,"Jl. Pajangan, Dawukan, Sendangtirto, Kabupaten Sleman",Sendangtirto,Sleman,4.8,6,P216,sepak bola
+575,S949,Lapangan Pelem Lor,-7.8007592,110.4207714,"5CXC+M8R, Pelem, Baturetno, Bantul Regency",Baturetno,Bantul,4.4,15,P217,sepak bola
+576,S338,Lapangan Rw  Gambiran,-7.819978,110.3911323,"59JR+2F2, Jl. Gambir Sari, Pandeyan, Kota Yogyakarta",Pandeyan,Yogyakarta,5.0,3,P218,sepak bola
+578,S475,Lapangan Bumen Wetan,-7.8243937,110.4204532,"Jl. Gilang Raya Tim. No.110, Bumiwetan, Baturetno, Kabupaten Bantul",Baturetno,Bantul,4.5,12,P219,sepak bola
+586,S723,Lapangan Sepak Bola Ist Akprind,-7.8571272,110.3526469,"49V3+43R, Ngireng-ireng, Panggungharjo, Bantul Regency",Panggungharjo,Bantul,4.3,4,P220,sepak bola
+587,S800,Lapangan Juru Purbo Geneng,-7.8539638,110.3518059,"49W2+CP7, Geneng, Panggungharjo, Bantul Regency",Panggungharjo,Bantul,4.0,7,P221,sepak bola
+590,S516,Uad Football Field,-7.8329459,110.3845692,"598M+RRG, Kragilan, Tamanan, Bantul Regency",Tamanan,Bantul,4.2,5,P222,sepak bola
+594,S414,Lapangan Donotirto,-7.8267191,110.312275,"58F6+8W6, Jl. Donotirto, Donotirto, Bangunjiwo, Kabupaten Bantul",Bangunjiwo,Bantul,3.0,10,P223,sepak bola
+596,S513,Lapangan Sepak Bola Umy,-7.8074736,110.3207968,"58VC+287, Geblagan, Tamantirto, Bantul Regency",Tamantirto,Bantul,4.6,17,P224,sepak bola
+598,S449,Lapangan Kasunaran,-7.82026,110.3528216,"59H3+V4W, Gedongkiwo, Yogyakarta City",Gedongkiwo,Yogyakarta,4.3,4,P225,sepak bola
+600,S730,Sdit Ar Raihan Field,-7.9096846,110.3405637,"38RR+46G, Sumber Batikan, Bantul, Bantul Regency",Bantul,Bantul,3.7,9,P226,sepak bola
+602,V95,Lapangan Bola Voly Kaliasem,-7.8512814,110.298236,"Petung, Bangunjiwo, Bantul Regency",Bangunjiwo,Bantul,4.7,6,P227,voli
+605,S215,Lapangan Bola Klepu Indah,-7.824101,110.2610515,"57G6+9C3, Ngentak, Argorejo, Kabupaten Bantul",Argorejo,Bantul,4.9,11,P228,sepak bola
+611,S596,Lapangan Bhakti Pemuda,-7.8143558,110.2769345,"Surobayan, 55752, Surobayan, Argomulyo, Kabupaten Bantul",Argomulyo,Bantul,5.0,3,P229,sepak bola
+612,S764,Lapangan Citra Muda Murgedhe,-7.8243405,110.2860406,"57GP+7C7, Jl. Cahaya Taman, Kaliberot, Argomulyo, Kabupaten Bantul",Argomulyo,Bantul,4.3,6,P230,sepak bola
+613,V112,Lapangan Voli Bentangan,-7.8365922,110.2537613,"5773+9G6, Sumberan, Argodadi, Kabupaten Bantul",Argodadi,Bantul,5.0,10,P231,voli
+614,S956,Ngleboh Stadium,-7.7889831,110.2388549,"666Q+CG5, Klampis, Sumberrahayu, Kabupaten Sleman",Sumberrahayu,Sleman,5.0,3,P232,sepak bola
+615,V777,Lapangan Voli Dlaban,-7.8297822,110.2266736,"56CG+3MM, Kali Bondol, Dlaban, Kabupaten Kulon Progo",Dlaban,Kulon Progo,4.8,13,P233,voli
+616,S485,Lapangan Muara Jati Kadibeso,-7.8477086,110.2585182,"5735+339, Kadibeso, Argodadi, Kabupaten Bantul",Argodadi,Bantul,5.0,14,P234,sepak bola
+617,V463,Lapangan Voli Krida Taruna Ngentak,-7.820927,110.2609119,"57H6+J9F, Ngentak, Argorejo, Kabupaten Bantul",Argorejo,Bantul,5.0,4,P235,voli
+619,S999,Ares Stadium,-7.8000394,110.2864812,"Unnamed Road, Sengon Karang, Argomulyo, Kabupaten Bantul",Argomulyo,Bantul,3.8,5,P236,sepak bola
+624,F497,Puma Futsal,-7.9090011,110.4692124,"3FR9+9MW, Kapingan, Temuwuh, Kabupaten Bantul",Temuwuh,Bantul,4.1,8,P237,futsal
+652,S812,Gor Demen,-7.885867,110.0989341,"437X+MH3, Batikan 1, Demen, Kabupaten Kulon Progo",Demen,Kulon Progo,4.1,9,P238,sepak bola
+656,S427,Lapangan Girigondo,-7.8756514,110.0922543,"Jl. Girigondo Kalurahan, Girigondo, Kaligintung, Kabupaten Kulon Progo",Kaligintung,Kulon Progo,4.3,11,P239,sepak bola
+668,V126,Lapangan Voli Kopok Wetan,-7.8825054,110.1175362,"Jl. Kedundang No.16, Kosok Wetan, Tawangsari, Kabupaten Kulon Progo",Tawangsari,Kulon Progo,4.7,3,P240,voli
+671,S909,Lapangan Serangrejo,-7.9097281,110.118301,"Jl. KH Mas Mansyur No.15, Serangrejo, Kulwaru, Kabupaten Kulon Progo",Kulwaru,Kulon Progo,3.6,19,P241,sepak bola
+672,V932,Lapangan Voli Seworan,-7.8893381,110.1260988,"446G+7C9, Seworan, Triharjo, Kulon Progo Regency",Triharjo,Kulon Progo,4.0,4,P242,voli
+673,S560,Lapangan Panjatan,-7.9082117,110.1692482,"35R9+PM9, Jl. Panjatan II, Djenguk, Panjatan, Kabupaten Kulon Progo",Panjatan,Kulon Progo,4.5,8,P243,sepak bola
+674,S655,Lapangan Kulwaru,-7.8942369,110.123309,"444F+883, Kulon, Kulwaru, Kulwaru Kulon, Kulwaru, Kabupaten Kulon Progo",Kulwaru,Kulon Progo,4.1,7,P244,sepak bola
+677,S214,Lapangan Karangwuni,-7.9121785,110.1140943,"34Q7+4JH, Karang Rejo, Karangwuni, Kulon Progo Regency",Karangwuni,Kulon Progo,4.5,8,P245,sepak bola
+682,S228,Lapangan Hudalinas,-7.8790953,110.1905262,"45CR+966, Dukuh X, Krembangan, Kabupaten Kulon Progo",Krembangan,Kulon Progo,4.3,4,P246,sepak bola
+683,S526,Lapangan Desa Bumirejo,-7.916905,110.1954363,"35MW+65M, Cabean, Bumirejo, Kabupaten Kulon Progo",Bumirejo,Kulon Progo,3.9,10,P247,sepak bola
+684,S973,Lap Japin QJan City,-7.8876726,110.1992779,"456X+WPJ, Kijan, Demangrejo, Kabupaten Kulon Progo",Demangrejo,Kulon Progo,3.9,15,P248,sepak bola
+694,S664,Lapangan Sepak Bola Karangsewu,-7.9439292,110.2083682,"3645+C8H, Gupit, Karangsewu, Kabupaten Kulon Progo",Karangsewu,Kulon Progo,4.1,18,P249,sepak bola
+696,S464,Gaseta Stadium Sidorejo Lendah,-7.924855,110.2442136,"Gaseta Stadium, Ledok, Sidorejo, Kabupaten Kulon Progo",Sidorejo,Kulon Progo,5.0,3,P250,sepak bola
+698,S997,Lapangan Sepak Takraw Pandowan,-7.9414889,110.214689,"3657+FVX, Padukuhan II, Pandowan, Kabupaten Kulon Progo",Pandowan,Kulon Progo,5.0,3,P251,sepak bola
+699,S861,Lapangan Sewugalur,-7.9441001,110.2086333,"3645+9F2, Sewugalur, Karangsewu, Kabupaten Kulon Progo",Karangsewu,Kulon Progo,4.5,11,P252,sepak bola
+701,S690,Lapangan Gestrik,-7.8920012,110.2203949,"465C+55R, Pergiwatu Kulon, Srikayangan, Kabupaten Kulon Progo",Srikayangan,Kulon Progo,4.3,11,P253,sepak bola
+702,V525,Lapangan Bola Volly Panjalu,-7.9086717,110.2065996,"Unnamed Rd,, Gegunung, Bumirejo, Kabupaten Kulon Progo",Bumirejo,Kulon Progo,4.2,13,P254,voli
+710,S223,Lapangan Sepakbola Cemara Gading,-7.8549936,110.2490486,"46WX+2J3, Argodadi, Sedayu, Sungapan, Argodadi, Kabupaten Bantul",Argodadi,Bantul,4.5,19,P255,sepak bola
+715,S333,Lapangan Sepak Bola Banguncipto,-7.8163219,110.2262733,"56MG+PCX, Bantarejo, Banguncipto, Kabupaten Kulon Progo",Banguncipto,Kulon Progo,4.4,5,P256,sepak bola
+718,V40,Lapangan Bola Volly Suren,-7.8447669,110.2056015,"5644+36X, Suren, Sukoreno, Kabupaten Kulon Progo",Sukoreno,Kulon Progo,4.0,5,P257,voli
+719,S117,Lapangan Sanur,-7.8172214,110.1489995,"54MX+4H9, Girinyono, Sendangsari, Kabupaten Kulon Progo",Sendangsari,Kulon Progo,3.7,11,P258,sepak bola
+722,S98,Lapangan Kemiri,-7.8606072,110.164611,"45Q7+QR5, Kemiri, Margosari, Kabupaten Kulon Progo",Margosari,Kulon Progo,4.2,6,P259,sepak bola
+724,B259,Lapangan Bola Basket Sma Bopkri,-7.8580698,110.1611117,"45R6+QCH, Terbah, Wates, Kulon Progo Regency",Wates,Kulon Progo,3.7,3,P260,basket
+726,V768,Lapangan Voli Sarpon Pendem,-7.8020378,110.1643483,"55X8+325, Pendem, Sidomulyo, Kabupaten Kulon Progo",Sidomulyo,Kulon Progo,3.8,5,P261,voli
+728,S539,Lapangan Sambiroto,-7.8145358,110.169211,"55P9+5MP, Sambiroto, Banyuroto, Kabupaten Kulon Progo",Banyuroto,Kulon Progo,4.3,8,P262,sepak bola
+730,B789,Lapangan Bola Basket AlunAlun Wates,-7.8580459,110.1583745,"45R5+Q8Q, Terbah, Wates, Kulon Progo Regency",Wates,Kulon Progo,4.4,14,P263,basket
+732,S267,Lapangan Pantaran,-7.8104094,110.1083215,"54Q5+R8P, Sekendas, Hargotirto, Kabupaten Kulon Progo",Hargotirto,Kulon Progo,5.0,3,P264,sepak bola
+733,S244,Lapangan Sabrang,-7.7957875,110.1173594,"6438+MWQ, Soropati, Rt 3, RW.2, Hargotirto, Kabupaten Kulon Progo",Hargotirto,Kulon Progo,4.0,8,P265,sepak bola
+738,S765,Lapangan Kordass,-7.8552799,110.1299132,"44VH+VXM, Sendang, Karangsari, Kabupaten Kulon Progo",Karangsari,Kulon Progo,5.0,3,P266,sepak bola
+740,S84,Lapangan Dusun Kalilo,-7.7504349,110.1222904,"Kalilo, RT 03, Kalilo, Tlogoguwo, Kabupaten Purworejo",Tlogoguwo,Purworejo,5.0,3,P267,sepak bola
+741,V10,Lapangan Bola Volley  Gelora Bung Marno,-7.7527384,110.1572527,"65W4+WW2, Jl. Raya Kaligesing, Tompak, Giripurwo, Kabupaten Kulon Progo",Giripurwo,Kulon Progo,5.0,5,P268,voli
+744,S637,Lapangan Santren,-7.7449762,110.1518088,"7542+2P3, Gendu, Jatimulyo, Kabupaten Kulon Progo",Jatimulyo,Kulon Progo,4.3,3,P269,sepak bola
+745,S75,Lapangan Desa Giripurwo,-7.7724497,110.1836815,"65HM+2FF, Nglengkong, Giripurwo, Kabupaten Kulon Progo",Giripurwo,Kulon Progo,4.4,7,P270,sepak bola
+746,S347,Lapangan Cublak,-7.7522634,110.1233573,"64XF+38X, Kalilo, Tlogoguwo, Kabupaten Purworejo",Tlogoguwo,Purworejo,4.4,17,P271,sepak bola
+749,S416,Lapangan Pendoworejo Utama Lpu,-7.7494984,110.1853998,"Jl. Kluwih No.km 0, Turusan, Pendoworejo, Kabupaten Kulon Progo",Pendoworejo,Kulon Progo,4.1,13,P272,sepak bola
+750,S606,Lapangan Pule Lapangan Istiqomah,-7.7771533,110.1685277,"65F9+4CJ, Penggung, Giripurwo, Kabupaten Kulon Progo",Giripurwo,Kulon Progo,4.3,8,P273,sepak bola
+755,S899,Lapangan Lambau,-7.7432996,110.1707856,"banaran rt 44, Banaran, Pendoworejo, Kabupaten Kulon Progo",Pendoworejo,Kulon Progo,4.3,3,P274,sepak bola
+760,S136,Lapangan Bola Volly Soronanggan,-7.7696008,110.2160293,"66J8+5C2, Janti 12, Jati Sarono, Kabupaten Kulon Progo",Jati Sarono,Kulon Progo,4.3,14,P275,sepak bola
+762,V217,Lapangan Bola Voly Ds Tawang,-7.8000257,110.1780995,"Gayam, Banyuroto, Kulon Progo Regency",Banyuroto,Kulon Progo,4.4,10,P276,voli
+765,S33,Lapangan Tanjungharjo,-7.7830221,110.1987964,"658X+QGV, Tj. Gn., Tanjungharjo, Kabupaten Kulon Progo",Tanjungharjo,Kulon Progo,4.8,5,P277,sepak bola
+769,V870,Lapangan Voli Sokorojo,-7.7875694,110.2144324,"6667+XQF, Unnamed Road, Sukargo, Wijimulyo, Kabupaten Kulon Progo",Wijimulyo,Kulon Progo,4.3,7,P278,voli
+775,V304,Lapangan Volly Kedondong,-7.719998,110.2188956,"76J9+2H2, Kedondong 1, Banjararum, Kabupaten Kulon Progo",Banjararum,Kulon Progo,4.8,6,P279,voli
+776,V65,Lapangan Bola Voli Ngentak,-7.718699,110.2100221,"76J6+G2C, Ngentak, Banjararum, Kabupaten Kulon Progo",Banjararum,Kulon Progo,4.9,9,P280,voli
+779,S729,Lapangan Talunmiri,-7.696776,110.1931309,"853V+77J, Junut, Purwoharjo, Kabupaten Kulon Progo",Purwoharjo,Kulon Progo,4.4,5,P281,sepak bola
+780,S998,Lapangan Desa Banjarharjo,-7.6890553,110.2573159,"8764+9WG, Ngujon, Banjarharjo, Kabupaten Kulon Progo",Banjarharjo,Kulon Progo,4.5,8,P282,sepak bola
+782,V93,Lapangan Volly Parakan Wetan,-7.713745,110.261599,"77P6+GJ5, Parakan Wetan, Sendangsari, Kabupaten Sleman",Sendangsari,Sleman,4.8,6,P283,voli
+787,V154,Margono Sport Volly Ball Lapangan Volly,-7.740469,110.2313011,"765J+VCC, Dindingan, Sendangmulyo, Kabupaten Sleman",Sendangmulyo,Sleman,5.0,7,P284,voli
+789,S911,Lapangan Ngargosari  Desa Wisata Widosari,-7.6610919,110.1562811,"Nyalian, Ngargosari, Kulon Progo Regency",Ngargosari,Kulon Progo,4.1,14,P285,sepak bola
+792,V488,Lapangan Volly Krajan,-7.657914,110.1115177,"84R6+VJF, Krajan, Sedayu, Kabupaten Purworejo",Sedayu,Purworejo,5.0,3,P286,voli
+799,S505,Lapangan Gedelen Pagerharjo,-7.67314,110.1345237,"84GM+PRR, Plono Barat, Pagerharjo, Kabupaten Kulon Progo",Pagerharjo,Kulon Progo,4.2,19,P287,sepak bola
+801,V605,Lapangan Bola Voli Gunung Wangi,-7.701298,110.0905515,"73XR+F6M, Ngaglik, Gunungwangi, Kabupaten Purworejo",Gunungwangi,Purworejo,4.3,8,P288,voli
+807,S39,Dwi Indah Wukirsari,-7.9228745,110.1817674,"35GJ+VP2, Sungapan Lor, Tirtorahayu, Kabupaten Kulon Progo",Tirtorahayu,Kulon Progo,4.8,4,P289,sepak bola
+815,F420,Selo Futsal,-7.8624781,110.1083731,"44Q5+285, Selo Timur, Hargorejo, Kabupaten Kulon Progo",Hargorejo,Kulon Progo,4.5,10,P290,futsal
