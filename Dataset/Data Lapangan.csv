@@ -500,7 +500,7 @@ no,id,name,lat,lng,vicinity,kecamatan,kabupaten,rating,user_ratings_total,price,
 498,V64,Lapangan Voli Kalinongko,-7.8528029,110.306065,"48W4+VCG, Kalinongko, Bangunjiwo, Bantul Regency",Bangunjiwo,Bantul,4.7,9,85000,0,0,0,1,0,0,1,1,0,1,0,0
 499,S685,Lapangan Bibis,-7.8496569,110.315032,"5828+42M, Jl. Gua Selarong, Bibis, Bangunjiwo, Kabupaten Bantul",Bangunjiwo,Bantul,4.2,152,57000,1,0,0,0,0,0,1,0,1,0,1,0
 500,V386,Lapangan Voli Santan,-7.8944554,110.3048775,"4844+722, Santan, Guwosari, Bantul Regency",Guwosari,Bantul,5,1,84000,0,0,0,1,0,0,1,1,0,1,0,0
-501,S923,Lapangan Voli Monggang,-7.857188,110.342816,"Monggang, Pendowoharjo, Bantul Regency",Pendowoharjo,Bantul,4.7,3,82000,1,0,0,0,0,0,1,1,0,0,0,0
+501,S923,Lapangan Voli Monggang,-7.857188,110.342816,"Monggang, Pendowoharjo, Bantul Regency",Pendowoharjo,Bantul,4.7,3,82000,0,0,0,1,0,0,1,1,0,0,0,0
 502,V845,Lapangan Bola Voli Karanggayam,-7.8984602,110.3307883,"482J+J87, Serayu, Karanggayam, Bantul Regency",Karanggayam,Bantul,4.8,8,84000,0,0,0,1,0,0,1,0,1,0,1,0
 503,S169,Lapangan Sepak Bola Kebon Agung,-7.9271665,110.3739058,"39FF+4HJ, Jl. Imogiri - Siluk, Mandingan, Kb. Agung, Kabupaten Bantul",Kb. Agung,Bantul,4.3,251,68000,1,0,0,0,0,0,1,0,0,1,0,1
 504,S29,Trimulyo Field,-7.890357,110.3860451,"495P+VC3, Jl. Imogiri Tim., Kembang Songo, Trimulyo, Kabupaten Bantul",Trimulyo,Bantul,4.5,87,71000,1,0,0,0,0,0,0,0,0,0,1,0
@@ -561,7 +561,7 @@ no,id,name,lat,lng,vicinity,kecamatan,kabupaten,rating,user_ratings_total,price,
 559,V683,Lapangan Bola Voli Karongan,-7.815752,110.4704697,"Karongan, RT.05/RW.012, Rejosari, Jogotirto, Kabupaten Sleman",Jogotirto,Sleman,4.8,22,85000,0,0,0,1,0,0,0,1,0,1,0,1
 560,S243,Lapangan Smk Muhammadiyah Piyungan,-7.8233437,110.4862255,"5FGP+MF9, Jatigrit, Srimartani, Kabupaten Bantul",Srimartani,Bantul,5,1,82000,1,0,0,0,0,0,0,0,0,0,1,0
 561,V567,Lapangan Volly Gavoka,-7.8422914,110.4714306,"5F5C+3HM, Jl. Duwet Gentong, Ngijo, Srimulyo, Kabupaten Bantul",Srimulyo,Bantul,5,1,84000,0,0,0,1,0,0,0,0,1,1,0,0
-562,S395,Lapangan Voly Rukun Bintaran Kulon,-7.8332973,110.4518354,"5F82+MPP, Jl. Dusun Bintaran Kulon, RT.06, Bantaran Kulon, Srimulyo, Kabupaten Bantul",Srimulyo,Bantul,5,3,85000,1,0,0,0,0,0,1,1,0,1,0,0
+562,S395,Lapangan Voly Rukun Bintaran Kulon,-7.8332973,110.4518354,"5F82+MPP, Jl. Dusun Bintaran Kulon, RT.06, Bantaran Kulon, Srimulyo, Kabupaten Bantul",Srimulyo,Bantul,5,3,85000,0,0,0,1,0,0,1,1,0,1,0,0
 563,V911,Lapangan Voli Intra Kabregan,-7.8364278,110.4662864,"5F78+CGF, Kabrengan, Srimulyo, Kabupaten Bantul",Srimulyo,Bantul,4.7,3,85000,0,0,0,1,0,0,1,1,1,0,1,0
 564,V45,Lapangan Voli Dusun Cikal,-7.8409605,110.4501057,"5C5X+GXR, Cikal, Srimulyo, Kabupaten Bantul",Srimulyo,Bantul,5,1,82000,0,0,0,1,0,0,1,1,1,1,1,1
 565,V442,Lapangan Voli Klenggotan,-7.8241804,110.4534564,"5FG3+89G, Klenggotan, Menguten, Srimulyo, Kabupaten Bantul",Srimulyo,Bantul,5,1,85000,0,0,0,1,0,0,1,1,0,0,1,1
