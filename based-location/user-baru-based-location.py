@@ -83,7 +83,7 @@ def recommend_location(file_path, lng, lat, input_field):
             return "There is nothing"
 
     # Memuat data
-    df = load_data('dataset_fixed.csv')
+    df = load_data('./Dataset/Data Lapangan.csv')
 
     # Ambil koordinat
     coordinates = df[['lng', 'lat']]
