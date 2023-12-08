@@ -105,3 +105,8 @@ def recommend_location(file_path, lng, lat, input_field):
 
     # Lakukan rekomendasi berdasarkan lokasi
     user_recommendations = recommend_location(lapangan_df, model, lng, lat, input_field)
+
+    json_output = json.dumps(user_recommendations, indent = 4)
+
+    print(json_output)
+    return json.loads(json_output)
