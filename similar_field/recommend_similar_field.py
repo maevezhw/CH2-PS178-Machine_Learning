@@ -28,7 +28,7 @@ def distance(lat1, lon1, lat2, lon2):
 def tf_recommend_similar_field(field, current_lat, current_lng):
     # Suppress TensorFlow warnings
     os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
-    field_dataset = pd.read_csv('dataset_fixed.csv')
+    field_dataset = pd.read_csv('./Dataset/Data Lapangan.csv')
 
     row_condition = field_dataset['id'] == field
     row_index = field_dataset.index[row_condition][0]
