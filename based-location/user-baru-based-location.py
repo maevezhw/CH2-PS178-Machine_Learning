@@ -13,7 +13,7 @@ import json
 
 def homepage_recommend(lng, lat, input_field):
     # Load dataset
-    df = pd.read_csv('./Dataset/dataset_fixed.csv')
+    df = pd.read_csv('./Dataset/Data Lapangan.csv')
 
     # Extract coordinates
     coordinates = df[['lng', 'lat']]
