@@ -1,112 +1,108 @@
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-import seaborn as sns
-from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import KMeans
+from sklearn.preprocessing import StandardScaler
+from sklearn.model_selection import train_test_split
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense
 from sklearn.metrics import silhouette_score
-import tensorflow as tf
-from tensorflow.keras import layers, models
-from tensorflow.keras import optimizers
 from math import cos, asin, sqrt, pi, sin, radians, atan2
-from keras.models import load_model
-from sklearn.metrics import silhouette_score
+import json
 
-def recommend_location(file_path, lng, lat, input_field):
-    # Fungsi untuk menghitung jarak antara dua titik berdasarkan koordinat
-    def distance(lat1, lon1, lat2, lon2):
-        R = 6371.0  # kilometer
-        lat1, lon1, lat2, lon2 = map(np.radians, [lat1, lon1, lat2, lon2])
-        dlat = lat2 - lat1
-        dlon = lon2 - lon1
-        a = np.sin(dlat / 2)**2 + np.cos(lat1) * np.cos(lat2) * np.sin(dlon / 2)**2
-        c = 2 * np.arctan2(np.sqrt(a), np.sqrt(1 - a))
-        distance = R * c
-        return distance
 
-    # Fungsi untuk memuat data
-    def load_data(file_path):
-        df = pd.read_csv(file_path)
-        return df
+def homepage_recommend(lng, lat, input_field):
+    # Load dataset
+    df = pd.read_csv('D:\Python\Capstone Bangkit\Dataset\dataset_fixed.csv')
 
-    # Fungsi untuk menemukan jumlah cluster optimal dengan KMeans
-    def find_optimal_k(coordinates):
-        distortions = []
-        K = range(1, 25)
-        for k in K:
-            kmeansModel = KMeans(n_clusters=k)
-            kmeansModel = kmeansModel.fit(coordinates)
-            distortions.append(kmeansModel.inertia_)
+    # Extract coordinates
+    coordinates = df[['lng', 'lat']]
 
-        sil = []
-        kmax = 50
+    # Perform KMeans clustering
+    kmeans = KMeans(n_clusters=10, init='k-means++', random_state=42)
+    df['cluster'] = kmeans.fit_predict(coordinates)
 
-        # dissimilarity would not be defined for a single cluster, thus, the minimum number of clusters should be 2
-        for k in range(2, kmax+1):
-            kmeans = KMeans(n_clusters=k, random_state=42)
-            kmeans.fit(coordinates)
-            labels = kmeans.labels_
-            sil.append(silhouette_score(coordinates, labels, metric='euclidean'))
+    # Define features and target
+    X = coordinates.values
+    y = df['cluster'].values
 
-        kmeans = KMeans(n_clusters=4, init='k-means++', random_state=42)
-        kmeans.fit(coordinates)
-        y = kmeans.labels_
+    # Standardize the data
+    scaler = StandardScaler()
+    X = scaler.fit_transform(X)
 
-        return kmeans
+    # Split the data into training and testing sets
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
-    # Fungsi untuk mengelompokkan data ke dalam klaster
-    def cluster_data(df, kmeans):
-        df['cluster'] = kmeans.predict(df[['lng', 'lat']])
-        y_cluster = pd.get_dummies(df['cluster'])
-        return y_cluster
+    from keras.models import load_model
+    model = load_model('new-user-location.h5')
 
-    def jenis_lapangan(df, input_field):
+    def jenis_lapangan(input_field):
         if input_field == 'sepak bola':
             df_sepakbola = df[df['jenis_sepakbola'] == 1]
+            # sepakbola_kabupaten = df_sepakbola[df_sepakbola['kabupaten'] == input_kabupaten]
             return df_sepakbola
         elif input_field == 'voli':
             df_voli = df[df['jenis_voli'] == 1]
+            # voli_kabupaten = df_voli[df_voli['kabupaten'] == input_kabupaten]
             return df_voli
         elif input_field == 'futsal':
             df_futsal = df[df['jenis_futsal'] == 1]
+            # futsal_kabupaten = df_futsal[df_futsal['kabupaten'] == input_kabupaten]
             return df_futsal
         elif input_field == 'badminton':
             df_badminton = df[df['jenis_badminton'] == 1]
+            # badminton_kabupaten = df_badminton[df_badminton['kabupaten'] == input_kabupaten]
             return df_badminton
         elif input_field == 'basket' or input_field == 'tenis':
             df_basket = df[df['jenis_basket'] == 1]
             df_tenis = df[df['jenis_tenis'] == 1]
             df_lainnya = pd.concat([df_basket, df_tenis], axis=0)
+            # kabupaten_lainnya = df_lainnya[df_lainnya['kabupaten'] == input_kabupaten]
             return df_lainnya
         else:
             return "There is nothing"
 
-    # Memuat data
-    df = load_data('./Dataset/Data Lapangan.csv')
+    lapangan_df = jenis_lapangan(input_field)
 
-    # Ambil koordinat
-    coordinates = df[['lng', 'lat']]
+    def distance(lat1, lon1, lat2, lon2):
+        R = 6371.0 # kilometer
 
-    # Temukan jumlah cluster optimal dengan KMeans
-    kmeans = find_optimal_k(coordinates)
+        # Convert latitude and longitude from degrees to radians
+        lat1, lon1, lat2, lon2 = map(radians, [lat1, lon1, lat2, lon2])
 
-    # Klasterisasi data
-    y_cluster = cluster_data(df, kmeans)
+        # Haversine formula
+        dlat = lat2 - lat1
+        dlon = lon2 - lon1
+        a = sin(dlat / 2)**2 + cos(lat1) * cos(lat2) * sin(dlon / 2)**2
+        c = 2 * atan2(sqrt(a), sqrt(1 - a))
+        distance = R * c
 
-    # Bagi data untuk pelatihan dan pengujian model
-    X_train, X_test, y_train, y_test = train_test_split(coordinates, y_cluster, test_size=0.2, random_state=42)
+        return distance
 
-    # Bangun model rekomendasi
-    model = models.load_model('user-baru_based-on-location.h5')
+    # Extract recommendations based on a given location
+    def recommend_location_neural_network(df, model, scaler, lng, lat):
+        # Standardize the input coordinates
+        input_coordinates = np.array([[lng, lat]])
+        input_coordinates = scaler.transform(input_coordinates)
 
-    # Jenis lapangan
-    lapangan_df = jenis_lapangan(df, input_field)
+        # Predict the cluster using the neural network model
+        predicted_cluster = np.argmax(model.predict(input_coordinates))
 
-    # Lakukan rekomendasi berdasarkan lokasi
-    user_recommendations = recommend_location(lapangan_df, model, lng, lat, input_field)
+        # Filter the dataframe based on the predicted cluster
+        cluster_df = df[df['cluster'] == predicted_cluster].copy()
 
-    json_output = json.dumps(user_recommendations, indent = 4)
+        # Sort the dataframe based on distance (you may use your own distance function here)
+        cluster_df['distance'] = cluster_df.apply(lambda x: distance(lat, lng, x['lat'], x['lng']), axis=1)
+        sorted_df = cluster_df.sort_values(by=['distance'])
+
+        # Return the top 5 recommendations
+        recommendations = sorted_df.iloc[0:5][['name', 'lng', 'lat', 'distance']]
+        return recommendations
+
+    recommendations = recommend_location_neural_network(lapangan_df, model, scaler, lng, lat)
+
+    output = recommendations.to_dict(orient='records')
+    json_output = json.dumps(output, indent = 4)
 
     print(json_output)
     return json.loads(json_output)
