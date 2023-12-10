@@ -37,7 +37,10 @@ def homepage_recommend(lng, lat, input_field):
     model = load_model('new-user-location.h5')
 
     def jenis_lapangan(input_field):
-        if input_field == 'sepak bola':
+        if input_field == 'semua':
+            df_semua = df
+            return df_semua
+        elif input_field == 'sepak bola':
             df_sepakbola = df[df['jenis_sepakbola'] == 1]
             return df_sepakbola
         elif input_field == 'voli':
@@ -90,8 +93,8 @@ def homepage_recommend(lng, lat, input_field):
         cluster_df['distance'] = cluster_df.apply(lambda x: distance(lat, lng, x['lat'], x['lng']), axis=1)
         sorted_df = cluster_df.sort_values(by=['distance'])
 
-        # Return the top 5 recommendations
-        recommendations = sorted_df.iloc[0:5][['name', 'lng', 'lat', 'distance']]
+        # Return the top 10 recommendations
+        recommendations = sorted_df.iloc[0:10][['name', 'lng', 'lat', 'distance']]
         return recommendations
 
     recommendations = recommend_location_neural_network(lapangan_df, model, scaler, lng, lat)
