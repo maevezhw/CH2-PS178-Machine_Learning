@@ -39,25 +39,20 @@ def homepage_recommend(lng, lat, input_field):
     def jenis_lapangan(input_field):
         if input_field == 'sepak bola':
             df_sepakbola = df[df['jenis_sepakbola'] == 1]
-            # sepakbola_kabupaten = df_sepakbola[df_sepakbola['kabupaten'] == input_kabupaten]
             return df_sepakbola
         elif input_field == 'voli':
             df_voli = df[df['jenis_voli'] == 1]
-            # voli_kabupaten = df_voli[df_voli['kabupaten'] == input_kabupaten]
             return df_voli
         elif input_field == 'futsal':
             df_futsal = df[df['jenis_futsal'] == 1]
-            # futsal_kabupaten = df_futsal[df_futsal['kabupaten'] == input_kabupaten]
             return df_futsal
         elif input_field == 'badminton':
             df_badminton = df[df['jenis_badminton'] == 1]
-            # badminton_kabupaten = df_badminton[df_badminton['kabupaten'] == input_kabupaten]
             return df_badminton
         elif input_field == 'basket' or input_field == 'tenis':
             df_basket = df[df['jenis_basket'] == 1]
             df_tenis = df[df['jenis_tenis'] == 1]
             df_lainnya = pd.concat([df_basket, df_tenis], axis=0)
-            # kabupaten_lainnya = df_lainnya[df_lainnya['kabupaten'] == input_kabupaten]
             return df_lainnya
         else:
             return "There is nothing"
