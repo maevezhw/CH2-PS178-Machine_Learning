@@ -52,7 +52,7 @@ def homepage_recommend(lng, lat, input_field):
         elif input_field == 'badminton':
             df_badminton = df[df['jenis_badminton'] == 1]
             return df_badminton
-        elif input_field == 'basket' or input_field == 'tenis':
+        elif input_field == 'lainnya':
             df_basket = df[df['jenis_basket'] == 1]
             df_tenis = df[df['jenis_tenis'] == 1]
             df_lainnya = pd.concat([df_basket, df_tenis], axis=0)
