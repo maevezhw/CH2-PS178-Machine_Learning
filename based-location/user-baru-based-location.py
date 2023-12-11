@@ -95,6 +95,17 @@ def homepage_recommend(lng, lat, input_field):
 
         # Return the top 10 recommendations
         recommendations = sorted_df.iloc[0:10][['name', 'lng', 'lat', 'distance']]
+        
+        # If the reccomendations less than 10 fields
+        if len(recommendations) < 10:
+            additional_recommendations = df[df['cluster'] != predicted_cluster].copy()
+            additional_recommendations['distance'] = additional_recommendations.apply(lambda x: distance(lat, lng, x['lat'], x['lng']), axis=1)
+            sorted_additional = additional_recommendations.sort_values(by=['distance'])
+
+            additional_recommendations = sorted_additional.iloc[0:(8 - len(recommendations))][['name', 'lng', 'lat', 'distance']]
+
+            recommendations = pd.concat([recommendations, additional_recommendations])
+    
         return recommendations
 
     recommendations = recommend_location_neural_network(lapangan_df, model, scaler, lng, lat)
